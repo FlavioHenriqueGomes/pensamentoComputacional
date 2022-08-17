@@ -1,6 +1,11 @@
 body{
     background: #00a2ff;
+    text-align: center;
 }
 h1{
     color: rgb(255, 196, 0);
 }
+h2{
+    text-decoration: none;
+    color: black;
+    }
