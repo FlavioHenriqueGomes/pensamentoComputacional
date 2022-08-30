@@ -26,3 +26,7 @@ nav li{
      font-size: 19px;
      text-decoration: none;
   }
+
+  .produtos li {
+      display: inlane-block;
+  }
