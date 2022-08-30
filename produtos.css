@@ -38,10 +38,74 @@ nav li{
       text-align: center;
       width:30%;
       vertical-align: top;
-      background-color:#e4aa17 ;
       margin: 0 1.5%;
-      padding: 30px 20px;
-      box-sizing:border-box ;
+      padding: 30px;
+      box-sizing: border-box;
+      border-color:#000000 ;
+      border-width:2px ;
+      border-style: solid ;
+}      
+  
+
+.produtos h2 {
+      font-size: 30px;
+    font-weight: bold;  
+}
+
+.des {
+    font-size: 18px;
+    font-weight: bold;
+}
+.preco {
+    font-size: 22px;
+    font-weight: bold;
+}
+header{
+   background-color: #00498d
+}
+
+.caixa{
+   position: relative; 
+   width: 940px;
+   margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top:50px;
+    right:40px ;
+
+}
+nav li{
+    display:inline;
+    margin:0 0 0 15px;
+  }
+
+  nav a {
+      text-transform: uppercase;
+      color:#dde018;
+      font-weight: bold;
+     font-size: 19px;
+     text-decoration: none;
+  }
+
+.produtos{
+     width:940px;
+     margin: 0 auto;
+     padding: 50px 0;
+}    
+
+.produtos li {
+      display: inlane-block;
+      text-align: center;
+      width:30%;
+      vertical-align: top;
+      margin: 0 1.5%;
+      padding: 30px;
+      box-sizing: border-box;
+      border-color:#000000 ;
+      border-width:2px ;
+      border-style: solid ;
 }      
   
 
