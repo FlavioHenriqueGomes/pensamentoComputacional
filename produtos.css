@@ -97,7 +97,7 @@ nav li{
 .produtos li {
       display: inlane-block;
       text-align: center;
-      width:30%;
+      width:50%;
       vertical-align: top;
       margin: 0 1.5%;
       padding: 30px;
@@ -112,7 +112,9 @@ nav li{
       font-size: 30px;
     font-weight: bold;  
 }
-
+.produtos img {
+     width:100%;
+}
 .des {
     font-size: 18px;
     font-weight: bold;
